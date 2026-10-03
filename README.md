@@ -57,7 +57,7 @@ Review
 Clone the repository:
 
 ```bash
-git clone https://github.com/gamal-dev1/Multi-Vendor
+git clone https://github.com/abdullahharb/Multi-Vendor
 ```
 
 Install dependencies:
